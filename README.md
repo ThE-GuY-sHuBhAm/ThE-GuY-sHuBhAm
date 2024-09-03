@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Shaw</h1>
-<h3 align="center">A Fervent Web Designer from India</h3>
+<h3 align="center">A UI UX Designer from India</h3>
 
-- 🌱 I’m currently learning **Advance Prototyping,Variance & Website Design**
+- 🌱 I’m currently learning **Machine Leaning & MLOPS**
 
 - 📝 I regularly write articles on [https://medium.com/@shubhamshaw363](https://medium.com/@shubhamshaw363)
 
