@@ -1,11 +1,21 @@
 <h1 align="center">Hi 👋, I'm Shubham Shaw</h1>
-<h3 align="center">A UI UX Designer from India</h3>
+<h3 align="center">👋
+🚀 Machine Learning Enthusiast | 🎨 UI/UX Design Aficionado | 💡 Innovator in Tech</h3>
 
-- 🌱 I’m currently learning **Machine Leaning & MLOPS**
+- I’m Shubham, a tech explorer who loves diving deep into Machine Learning and MLOps. My journey in the world of algorithms and data-driven insights fuels my passion for building intelligent systems that can solve real-world problems. Whether it’s training a neural network or optimizing a deployment pipeline, I thrive on the challenges and possibilities that machine learning brings to the table.
 
-- 📝 I regularly write articles on [https://medium.com/@shubhamshaw363](https://medium.com/@shubhamshaw363)
+But that’s not all—designing seamless and intuitive user experiences is my creative outlet. With a strong background in UI/UX Design, I blend form with function, ensuring that every application I work on is not just smart, but also user-friendly. From wireframes to polished prototypes, I’ve got a knack for turning complex ideas into accessible, aesthetically pleasing interfaces.
 
-- 💬 Ask me about **Figma,UX conecepts like prototyping, Wireframes, mockups, user stories, etc.**
+🌟 What I’m Working On
+AI-Driven Projects: Building intelligent applications that learn and adapt.
+MLOps Pipelines: Streamlining the deployment of machine learning models.
+Innovative UX Solutions: Crafting user-centric designs that are as functional as they are beautiful.
+🔧 My Skill Set
+Machine Learning: Model Development, Data Analysis, Python, TensorFlow, PyTorch
+UI/UX Design: Figma, Wireframing, Prototyping
+Software Engineering: Agile Methodologies
+
+- 📝 I occassionally write articles on [https://medium.com/@shubhamshaw363](https://medium.com/@shubhamshaw363)
 
 - 📫 How to reach me **https://www.linkedin.com/in/shubham-shaw-3a69aa202/**
 
