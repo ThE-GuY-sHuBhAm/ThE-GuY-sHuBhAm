@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Shaw</h1>
 <h3 align="center">👋
-🚀 Machine Learning Enthusiast | 🎨 UI/UX Design Aficionado | 💡 Innovator in Tech</h3>
+🚀 Machine Learning Enthusiast
 
 - I’m Shubham, a tech explorer who loves diving deep into Machine Learning and MLOps. My journey in the world of algorithms and data-driven insights fuels my passion for building intelligent systems that can solve real-world problems. Whether it’s training a neural network or optimizing a deployment pipeline, I thrive on the challenges and possibilities that machine learning brings to the table.
 
